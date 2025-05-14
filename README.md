@@ -1,4 +1,4 @@
-Personal Portfolio
+# Personal Portfolio
 Welcome to my personal portfolio project!
 This website showcases my skills, experience, and projects, and was built and customized entirely by me using modern web development tools and technologies.
 
